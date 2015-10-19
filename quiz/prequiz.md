@@ -1,7 +1,9 @@
 <style type="text/css">
   .markdown-body ul ul, .markdown-body ul ol, .markdown-body ol ol, .markdown-body ol ul { list-style-type: upper-alpha; }
   .answer {
+  /*
   border: 1px solid black; padding: 3px; background-color: tan;
+  */
   }
 </style>
 
