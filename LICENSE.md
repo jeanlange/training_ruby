@@ -5,20 +5,182 @@ Attribution-NonCommercial-NoDerivs 2.0 Generic License. To view a copy of this
 license, visit http://creativecommons.org/licenses/by-nc-nd/2.0/ or send a
 letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN
-"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
-IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE,
-NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each
-Recipient is solely responsible for determining the appropriateness of using
-and distributing the Program and assumes all risks associated with its exercise
-of rights under this Agreement , including but not limited to the risks and
-costs of program errors, compliance with applicable laws, damage to or loss of
-data, programs or equipment, and unavailability or interruption of operations.
+License
 
-EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY
-CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST
-PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY
-WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS
-GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE
+COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY
+COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS
+AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE
+BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR GRANTS YOU THE RIGHTS
+CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND
+CONDITIONS.
+
+1. Definitions
+
+"Collective Work" means a work, such as a periodical issue, anthology or
+encyclopedia, in which the Work in its entirety in unmodified form, along with
+a number of other contributions, constituting separate and independent works in
+themselves, are assembled into a collective whole. A work that constitutes a
+Collective Work will not be considered a Derivative Work (as defined below) for
+the purposes of this License.  "Derivative Work" means a work based upon the
+Work or upon the Work and other pre-existing works, such as a translation,
+musical arrangement, dramatization, fictionalization, motion picture version,
+sound recording, art reproduction, abridgment, condensation, or any other form
+in which the Work may be recast, transformed, or adapted, except that a work
+that constitutes a Collective Work will not be considered a Derivative Work for
+the purpose of this License. For the avoidance of doubt, where the Work is a
+musical composition or sound recording, the synchronization of the Work in
+timed-relation with a moving image ("synching") will be considered a Derivative
+Work for the purpose of this License.  "Licensor" means the individual or
+entity that offers the Work under the terms of this License.  "Original Author"
+means the individual or entity who created the Work.  "Work" means the
+copyrightable work of authorship offered under the terms of this License.
+"You" means an individual or entity exercising rights under this License who
+has not previously violated the terms of this License with respect to the Work,
+or who has received express permission from the Licensor to exercise rights
+under this License despite a previous violation.
+2. Fair Use Rights. Nothing in this license is intended to reduce, limit, or
+   restrict any rights arising from fair use, first sale or other limitations
+   on the exclusive rights of the copyright owner under copyright law or other
+   applicable laws.
+
+3. License Grant. Subject to the terms and conditions of this License, Licensor
+   hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for
+   the duration of the applicable copyright) license to exercise the rights in
+   the Work as stated below:
+
+to reproduce the Work, to incorporate the Work into one or more Collective
+Works, and to reproduce the Work as incorporated in the Collective Works; to
+distribute copies or phonorecords of, display publicly, perform publicly, and
+perform publicly by means of a digital audio transmission the Work including as
+incorporated in Collective Works; The above rights may be exercised in all
+media and formats whether now known or hereafter devised. The above rights
+include the right to make such modifications as are technically necessary to
+exercise the rights in other media and formats, but otherwise you have no
+rights to make Derivative Works. All rights not expressly granted by Licensor
+are hereby reserved, including but not limited to the rights set forth in
+Sections 4(d) and 4(e).
+
+4. Restrictions.The license granted in Section 3 above is expressly made
+   subject to and limited by the following restrictions:
+
+You may distribute, publicly display, publicly perform, or publicly digitally
+perform the Work only under the terms of this License, and You must include a
+copy of, or the Uniform Resource Identifier for, this License with every copy
+or phonorecord of the Work You distribute, publicly display, publicly perform,
+or publicly digitally perform. You may not offer or impose any terms on the
+Work that alter or restrict the terms of this License or the recipients'
+exercise of the rights granted hereunder. You may not sublicense the Work. You
+must keep intact all notices that refer to this License and to the disclaimer
+of warranties. You may not distribute, publicly display, publicly perform, or
+publicly digitally perform the Work with any technological measures that
+control access or use of the Work in a manner inconsistent with the terms of
+this License Agreement. The above applies to the Work as incorporated in a
+Collective Work, but this does not require the Collective Work apart from the
+Work itself to be made subject to the terms of this License. If You create a
+Collective Work, upon notice from any Licensor You must, to the extent
+practicable, remove from the Collective Work any reference to such Licensor or
+the Original Author, as requested.  You may not exercise any of the rights
+granted to You in Section 3 above in any manner that is primarily intended for
+or directed toward commercial advantage or private monetary compensation. The
+exchange of the Work for other copyrighted works by means of digital
+file-sharing or otherwise shall not be considered to be intended for or
+directed toward commercial advantage or private monetary compensation, provided
+there is no payment of any monetary compensation in connection with the
+exchange of copyrighted works.  If you distribute, publicly display, publicly
+perform, or publicly digitally perform the Work, You must keep intact all
+copyright notices for the Work and give the Original Author credit reasonable
+to the medium or means You are utilizing by conveying the name (or pseudonym if
+applicable) of the Original Author if supplied; the title of the Work if
+supplied; and to the extent reasonably practicable, the Uniform Resource
+Identifier, if any, that Licensor specifies to be associated with the Work,
+unless such URI does not refer to the copyright notice or licensing information
+for the Work. Such credit may be implemented in any reasonable manner;
+provided, however, that in the case of a Collective Work, at a minimum such
+credit will apdentifier, if any, that Licensor specifies to be associated with
+the Work, unless such URI does not refer to the copyright notice or licensing
+information for the Work. Such credit may be implemented in any reasonable
+manner; provided, however, that in the case of a Collective Work, at a minimum
+such credit will apdentifier, if any, that Licensor specifies to be associated
+with the Work, unless such URI does not refer to the copyright notice or
+licensing information for the Work. Such credit may be implemented in any
+reasonable manner; provided, however, that in the case of a Collective Work, at
+a minimum such credit will apdentifier, if any, that Licensor specifies to be
+associated with the Work,disociated with the Work, unless such URI does not
+edpyright notice or licensing information for the Work. Such creYo implemented
+in any reasonable manner; provided, however, that in the e nable manner;
+provided, however, that in the case of a Collective Work, at a minimum such
+credit will apdentifier, if any, that Licensor specifies to be associated with
+the Work, unless such URI does not refer to the copyright notice or licensing
+information for the Work. Such credit may be implemented in any reasonable
+manner; provided,e uch URI does not refer to the copyright notice or licensing
+information for the Work. Such credit may be implemented in any reasonable
+manner; provided, however, that in the case of a Ctar specifies to be
+associated with the Work,disociated with the Work, unless such URI does not
+edpyright notice or licensing information for the Work. Such creYo implemented
+in any reasonable manner; provided, however, that in the e nable manner;
+provided, howevealanner; provided, however, that in the e nable manner;
+provided, however, that in the case of a Collective Work, at a minimum such
+credit will apdentifier, if any, that Licensor specifies to ESfier, if any,
+that Licensor specifies to be associated with the Work, unless such URI does
+not refer to the copyright notice or licensing informatiIEh the Work,disociated
+with the Work, unless such URI does not edpyright notice or licensing
+information for the Work. Such creYo implemented in any reasonable manner;
+provided, however, that in the e nable manner; provided, howevealanner;
+provided, however, that in the e nable manner; provided, however, that in the
+case of a Collective Work, at a minimum such credit will apdentifier, if any,
+that Licensor specifies to ESfier, if any, that Licens F implemented in any
+reasonable manner; provided, however, that in the e nable manner; provided,
+howevealanner; provided, howevVEN IF LICENSOR HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+7. Termination
+
+This License and the rights granted hereunder will terminate automatically upon
+any breach by You of the terms of this License. Individuals or entities who
+have received Collective Works from You under this License, however, will not
+have their licenses terminated provided such individuals or entities remain in
+full compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will survive
+any termination of this License.  Subject to the above terms and conditions,
+the license granted here is perpetual (for the duration of the applicable
+copyright in the Work). Notwithstanding the above, Licensor reserves the right
+to release the Work under different license terms or to stop distributing the
+Work at any time; provided, however that any such election will not serve to
+withdraw this License (or any other license that has been, or is required to
+be, granted under the terms of this License), and this License will continue in
+full freceived Collective Works from You under this License, however, will not
+have their licenses terminated provided such individuals or entities remain in
+full compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will survive
+any terminaonbuting the Work at any time; provided, however that any such
+election will not serve to withdraw this License (or any other license that has
+been, or is required to be, granted under the terms of this License), and this
+License will continue in full freceived Collective Works from You under this
+License, however, will not have their licenses terminated provided such
+individuals or entities remain in full compliance with those licenses. Sections
+1, 2, 5, 6, 7, and 8 will survive any terminaonbuting the Work at any time; pl
+be in writing and signed by the party to be charged with such waiver or
+consent.  This License constitutes the entire agreement between the parties
+with respect to the Work licensed here. There are no understandings, agreements
+or representations with respect to the Work not specified here. Licensor shall
+not be bound by any additional provisions that may appear in any communication
+from You. This License may not be modified without the mutual written agreement
+of the Licensor and You.  Creative Commons is not a party to this License, and
+makes no warranty whatsoever in connection with the Work. Creative Commons will
+not be liable to You or any party on any legal theory for any damages
+whatsoever, including without limitation any general, special, incidental or
+consequential damages arising in connection to this license. Notwithstanding
+the foregoing two (2) sentences, if Creative Commons has expressly identified
+itself as the Licensor hereunder, it shall have all rights and obligations of
+Licensor.
+
+Except for the limited purpose of indicating to the public that the Work is
+licensed under the CCPL, neither party will use the trademark "Creative
+Commons" or any related trademark or logo of Creative Commons without the prior
+written consent of Creative Commons. Any permitted use will be in compliance
+with Creative Commons' then-current trademark usage guidelines, as may be
+published on its website or otherwise made available upon request from time to
+time.
+
+Creative Commons may be contacted at https://creativecommons.org/.
