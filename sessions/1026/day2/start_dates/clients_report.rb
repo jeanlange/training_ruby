@@ -33,8 +33,3 @@ end
 
 first = clients.min_by{|client| client[:start_date] }
 puts "#{first[:name]} started first and started on #{first[:start_date]}"
-
-
-
-
-
