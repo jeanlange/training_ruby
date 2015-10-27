@@ -1,28 +1,15 @@
 require 'date'
+require 'csv'
 
 class ClientsReport
-  def source
-    File.open('client_data.csv')
-  end
-
   def report
     output = ''
     clients = []
 
-    source.each_line do |source_line|
-      date_regex = /(?<name_first>\w.+\b)\s(?<name_last>\w.+\b)\s,.+(?<date>\d{4}-\d{2}-\d{2})$/
-
-      if date_match = date_regex.match(source_line)
-        date = Date.parse(date_match[:date])
-
-        # Check that nobody started on a weekend
-        if date.saturday? or date.sunday?
-          output += 'This person started on a weekend!'
-        end
-
-        client = {name: date_match[:name_first], start_date: date}
-        clients << client
-      end
+    CSV.read('client_data.csv', headers: true).each do |source_line|
+      date = Date.parse(source_line[' Start Date'])
+      output += 'This person started on a weekend!' if date.saturday? or date.sunday?
+      clients << {name: source_line['Client Name '], start_date: date}
     end
 
     grouped_clients = clients.group_by{|client| client[:start_date] }
