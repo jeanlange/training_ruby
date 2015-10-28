@@ -47,3 +47,14 @@ Report notes:
 
 - Only show the VIP column when there is a VIP in the data set
 - Only show active users
+
+# Useful Ruby Samples
+
+```ruby
+File.open('path/to/file')
+```
+
+```ruby
+require 'json'
+JSON.parse(json_string_object)
+```
