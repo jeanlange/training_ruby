@@ -58,3 +58,7 @@ File.open('path/to/file')
 require 'json'
 JSON.parse(json_string_object)
 ```
+
+```ruby
+data.map {|d| d["address"].match(/(?<state>\w+?\s?\w+), \d+$/)}
+```
