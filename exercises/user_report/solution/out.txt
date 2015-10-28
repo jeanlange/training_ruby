@@ -1,0 +1,206 @@
+
+    Summary
+    =======
+    
+    | Active Users | Companies | Total Users |
+    | 33| 45| 50|
+    Top Three Companies
+    =============
+      - QUOTEZART (6 Users)- SONGLINES (6 Users)- GEEKWAGON (4 Users)Users by State
+    =============Clients in Alabama
+| Name | Address | Balance |
+| Spencer Mercer | 898 Surf Avenue, Nanafalia, Alabama, 7081 | $3,868.13 |
+
+Clients in Alaska
+| Name | Address | Balance |
+| Nichols Espinoza | 425 Vandervoort Avenue, Morningside, Alaska, 2142 | $1,046.89 |
+
+Clients in American Samoa
+| Name | Address | Balance |
+| Chasity Lewis | 470 Delmonico Place, Ernstville, American Samoa, 3478 | $1,535.49 |
+
+Clients in Arizona
+| Name | Address | Balance |
+| Osborn Mcgee | 922 McClancy Place, Stagecoach, Arizona, 2641 | $3,001.26 |
+
+Clients in Arkansas
+| Name | Address | Balance |
+| Hobbs Potter | 507 Holmes Lane, Rosedale, Arkansas, 6174 | $2,843.07 |
+| Vickie Bean | 127 Bleecker Street, Coloma, Arkansas, 4029 | $2,966.12 |
+
+Clients in Colorado
+| Name | Address | Balance |
+| Tabatha Miller | 492 Nassau Street, Avalon, Colorado, 7170 | $1,718.31 |
+
+Clients in Delaware
+| Name | Address | Balance |
+| Willa Davis | 253 Seba Avenue, Brookfield, Delaware, 4644 | $3,069.43 |
+
+Clients in Florida
+| Name | Address | Balance |
+| Rush Sweet | 617 Seacoast Terrace, Sattley, Florida, 5208 | $3,104.52 |
+
+Clients in Georgia
+| Name | Address | Balance |
+| Alta Hinton | 367 Loring Avenue, Groton, Georgia, 1520 | $1,979.36 |
+
+Clients in Guam
+| Name | Address | Balance |
+| Connie Parrish | 558 Degraw Street, Chapin, Guam, 7457 | $1,456.36 |
+
+Clients in Idaho
+| Name | Address | Balance |
+| Mcknight Pope | 802 Highland Avenue, Northchase, Idaho, 7033 | $3,976.89 |
+
+Clients in Illinois
+| Name | Address | Balance |
+| Rosa Morton | 730 Coyle Street, Moquino, Illinois, 6799 | $3,293.64 |
+
+Clients in Iowa
+| Name | Address | Balance |
+| Kemp Webster | 550 Dunne Court, Duryea, Iowa, 6289 | $3,916.66 |
+
+Clients in Kansas
+| Name | Address | Balance |
+| Duke Harding | 948 Cove Lane, Graniteville, Kansas, 9328 | $1,825.45 |
+
+Clients in Kentucky
+| Name | Address | Balance |
+| Peck Serrano | 307 Vanderveer Place, Yorklyn, Kentucky, 9885 | $3,077.37 |
+
+Clients in Louisiana
+| Name | Address | Balance |
+| Sonia Sweeney | 467 Seton Place, Iberia, Louisiana, 1267 | $2,764.75 |
+
+Clients in Maine
+| Name | Address | Balance |
+| Wise Manning | 768 Desmond Court, Wakulla, Maine, 1575 | $1,052.39 |
+
+Clients in Marshall Islands
+| Name | Address | Balance |
+| Dixon Barr | 958 Ridgecrest Terrace, Trona, Marshall Islands, 9024 | $3,544.09 |
+
+Clients in Maryland
+| Name | Address | Balance |
+| Durham Coffey | 412 Aviation Road, Cliff, Maryland, 8119 | $2,170.29 |
+
+Clients in Massachusetts
+| Name | Address | Balance |
+| Opal Randolph | 750 Stuyvesant Avenue, Matheny, Massachusetts, 3381 | $1,844.31 |
+
+Clients in Michigan
+| Name | Address | Balance |
+| Murphy Huber | 726 Grimes Road, Linwood, Michigan, 2392 | $1,806.92 |
+
+Clients in Minnesota
+| Name | Address | Balance |
+| Sybil Short | 327 Franklin Avenue, Ivanhoe, Minnesota, 4951 | $3,804.17 |
+
+Clients in Mississippi
+| Name | Address | Balance |
+| Mack Mcpherson | 493 Front Street, Golconda, Mississippi, 9358 | $1,961.76 |
+
+Clients in Missouri
+| Name | Address | Balance |
+| Lela Valencia | 161 Robert Street, Steinhatchee, Missouri, 5404 | $2,464.62 |
+
+Clients in Montana
+| Name | Address | Balance |
+| Cobb Miles | 782 Pooles Lane, Hailesboro, Montana, 8041 | $1,194.07 |
+
+Clients in Nebraska
+| Name | Address | Balance |
+| Hendrix Kerr | 553 Vanderbilt Street, Ribera, Nebraska, 5206 | $2,661.58 |
+
+Clients in Nevada
+| Name | Address | Balance |
+| Warner Cooke | 622 Dekoven Court, Winesburg, Nevada, 3913 | $2,081.07 |
+
+Clients in New Hampshire
+| Name | Address | Balance |
+| Dianne Meyer | 593 Benson Avenue, Hilltop, New Hampshire, 1297 | $2,452.22 |
+
+Clients in New Jersey
+| Name | Address | Balance |
+| Walls Mcdowell | 240 Bethel Loop, Farmers, New Jersey, 3924 | $1,195.59 |
+
+Clients in New Mexico
+| Name | Address | Balance |
+| Pauline Lynn | 932 Saratoga Avenue, Loomis, New Mexico, 686 | $1,607.55 |
+
+Clients in New York
+| Name | Address | Balance |
+| Suzette Casey | 591 Classon Avenue, Floris, New York, 6843 | $2,682.71 |
+
+Clients in North Carolina
+| Name | Address | Balance |
+| Krista Mcknight | 293 Moore Place, Stewart, North Carolina, 5935 | $3,624.46 |
+
+Clients in North Dakota
+| Name | Address | Balance |
+| Joanna Wolf | 930 Kings Hwy, Twilight, North Dakota, 2689 | $1,593.44 |
+
+Clients in Of Micronesia
+| Name | Address | Balance |
+| Eileen Small | 630 Nassau Avenue, Camino, Federated States Of Micronesia, 4122 | $1,486.31 |
+
+Clients in Ohio
+| Name | Address | Balance |
+| Knowles Mosley | 331 Meadow Street, Lewis, Ohio, 2612 | $2,538.86 |
+
+Clients in Oregon
+| Name | Address | Balance | VIP? |
+| Eliza Walton | 864 Sheffield Avenue, Convent, Oregon, 2549 | $2,404.30 | * |
+
+Clients in Palau
+| Name | Address | Balance |
+| Edwards Vaughn | 900 Gain Court, Grazierville, Palau, 2176 | $3,922.30 |
+
+Clients in Pennsylvania
+| Name | Address | Balance |
+| Claudine Morrow | 889 Laurel Avenue, Wyano, Pennsylvania, 120 | $1,285.89 |
+
+Clients in Puerto Rico
+| Name | Address | Balance |
+| Terrell Marquez | 353 Colin Place, Mulberry, Puerto Rico, 480 | $3,346.02 |
+
+Clients in Rhode Island
+| Name | Address | Balance |
+| Marcella Hayden | 162 Hancock Street, Allentown, Rhode Island, 3232 | $3,073.38 |
+
+Clients in South Carolina
+| Name | Address | Balance |
+| Guzman Martin | 810 Veranda Place, Heil, South Carolina, 9622 | $2,340.89 |
+
+Clients in South Dakota
+| Name | Address | Balance |
+| Vazquez Herrera | 295 Hunts Lane, Thatcher, South Dakota, 5795 | $2,263.66 |
+
+Clients in Texas
+| Name | Address | Balance |
+| Bolton Bryant | 932 Tompkins Avenue, Valmy, Texas, 1582 | $1,715.71 |
+
+Clients in Vermont
+| Name | Address | Balance |
+| Angela Middleton | 817 Farragut Road, Fillmore, Vermont, 8557 | $3,525.37 |
+
+Clients in Virgin Islands
+| Name | Address | Balance |
+| Hunter Mathis | 875 Bedford Avenue, Eastvale, Virgin Islands, 9356 | $3,725.68 |
+
+Clients in Virginia
+| Name | Address | Balance |
+| Alisha Swanson | 780 Elizabeth Place, Hobucken, Virginia, 5800 | $2,294.59 |
+
+Clients in West Virginia
+| Name | Address | Balance |
+| Deann Clay | 171 Regent Place, Hayes, West Virginia, 3614 | $2,950.63 |
+
+Clients in Wisconsin
+| Name | Address | Balance |
+| Regina Stephenson | 408 Louisa Street, Marbury, Wisconsin, 2074 | $3,270.69 |
+
+Clients in Wyoming
+| Name | Address | Balance |
+| Ramsey Harris | 188 Kaufman Place, Hegins, Wyoming, 8710 | $3,023.84 |
+
