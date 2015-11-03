@@ -99,7 +99,69 @@ Name: Justin is absent!
 
 Except absent now means the combination of being absent and not having an excuse
 
-# Ex 7 - Precisely how old are you now?
+# Ex 8 - Student class
+
+Replace the student hashes used before with a class to represent students. Build
+your own initializer to accept the hash that you created before.
+
+```ruby
+class Dog
+  attr_accessor :name, :height
+  def initialize(hash_of_attributes)
+    @name = hash_of_attributes[:name]
+    @height = hash_of_attributes[:height]
+  end
+end
+
+```
+
+```ruby
+Student.new(hash)
+```
+
+Now, instead of accessing the attributes from a hash, create attributes on
+`Students` that allow you to get the same info with a shorter syntax.
+
+```ruby
+puts my_student.name
+```
+
+# Ex 9 - Roster service
+
+Create a class that represents a service that manages the roster. Accept a list
+of students.
+
+```ruby
+roster_service = RosterService.new(roster)
+```
+
+Use the service to get the same output from before by calling
+
+```ruby
+roster_service.print
+```
+
+# Ex 10 - Copy a File
+
+Using Ruby's built in File class, write a program that copies one text file to another name. For example, copy 'turtles.csv' to 'turtles2.csv'.
+
+```ruby
+f = File.open('turtles.csv')
+
+file_text = f.read
+
+f.each_line do |turtle_data|
+  array_of_data = turtle_data.split(',')
+  first_column = array_of_data[0]
+  puts first_column
+end
+
+my_new_file = File.open('output_file', 'w')
+my_new_file.puts "Hello world"
+my_new_file.close
+```
+
+# Bonus - Precisely how old are you now?
 
 Using the built in date and time classes, calculate the exact number of days
 old you are.
