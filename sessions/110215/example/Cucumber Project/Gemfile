@@ -1,0 +1,10 @@
+# A sample Gemfile
+source "https://rubygems.org"
+
+gem "cucumber"
+
+gem "xe3270" # for maineframes
+gem "mainframe-butler" # for mainframes
+gem "watir-webdriver" # for web apps
+gem "capybara" # for web apps
+gem "rack-test" # for APIs
