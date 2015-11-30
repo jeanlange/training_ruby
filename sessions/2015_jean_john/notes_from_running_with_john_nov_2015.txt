@@ -1,0 +1,21 @@
+windows vs linux - file association vs #!/usr/bin/ruby
+talked about defining operators
+duck typing - you mean actual literal typing on a keyboard?
+duck slide broken
+	need Duck.new, not just Duck in def game
+	(self) on class methods is no good
+string interpolation
+single and double quotes experimentation
+division (when it's a float, when it's an int)
+naming in ruby (this came about looking for PI and talking about why it was Math::PI)
+	classes are CamelCase
+	methods are xnake_case
+	constants are PHTEPHEN_CASE
+symbols typical use (I had trouble splaining about symbols.)
+	directions = [:north, :south, :east, :west] # enum
+	if directions.includes?(current_direction)
+	{:a => "bob"} # keys
+	"a".send(:reverse) # I expect this thing to exist
+symbols => faster than strings
+first 40 slides - 1.5 hours
+discussion about pass by reference vs copy (I had trouble splaining about this)
